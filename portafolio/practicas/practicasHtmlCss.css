@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: rgb(173, 230, 202);
+}
+
+h2{
+    padding: 10px;
+}
+
+p{
+    margin: 10px;
+}
+
+.textoDestacado{
+    color: blueviolet;
+}
+
+.titulo-Blog{
+    color: rgb(170, 82, 82);
+}
+
+strong{
+    font-weight: bold;
+}
+
+.urgente{
+    color: red;
+}
