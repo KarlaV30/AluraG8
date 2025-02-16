@@ -7,6 +7,8 @@ y un footer.
 Se dan estilos con CSS.
 
 ![portafolio ejemplo](../../assests/Screenshot%20(390).png)
+![portafolio ejemplo](https://github.com/KarlaV30/AluraG8/blob/main/portafolio/assests/Screenshot%20(390).png?raw=true)
+
 
 
 
