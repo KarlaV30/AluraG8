@@ -7,4 +7,5 @@ y un footer.
 Se dan estilos con CSS.
 
 
-![portafolio ejemplo](../assests/Screenshot%20(390).png)
+
+![portafolio ejemplo](portafolio/assests/Screenshot%20(390).png)
