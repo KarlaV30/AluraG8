@@ -5,11 +5,16 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portafolio</title>
-    <link rel="stylesheet" href="portafolio2.css">
+    <link rel="stylesheet" href="styles/portafolio2.css">
 
 </head>
 <body>
-    <header></header>
+    <header class="header">
+        <nav class="header_menu">
+            <a class="header_menu_link" href="index.html">Home</a>
+            <a class="header_menu_link" href="aboutMe.html">Sobre Mi</a>
+        </nav>
+    </header>
     <main class="presentacion">
         <section class="presentacion__contenido">
             <h1 class="presentacion__contenido__titulo">
@@ -23,14 +28,26 @@
 
                 </p>
                 <div class="presentacion__enlaces">
-                    <a class="presentacion__enlaces__link" href="https://instagram.com/">Instagram</a>
-                    <a class="presentacion__enlaces__link" href="https://github.com/">GitHub</a>
+                    <h2 class="presentacion__enlaces_subtitulo">Accede a mis redes:</h2>
+                    <a class="presentacion__enlaces__link" href="https://instagram.com/">
+                        <img src="..\assests\instagram.png" alt="">Instagram</a>
+                    
+                    <a class="presentacion__enlaces__link" href="https://github.com/">
+                        <img src="..\assests\github.png" alt="">GitHub</a>
+
+                    <!-- <a class="presentacion__enlaces__link" href="https://linkediin.com/">
+                        <img src="..\assests\linkedin.png" alt="">LinkedIn</a> -->
+
+                    <!-- <a class="presentacion__enlaces__link" href="https://twitch.com/">
+                        <img src="..\assests\twitch.png" alt="">Twitch</a> -->
                 </div>
                
         </section>
-        <img src="../img/Rectangle 47.png" alt="foto">
+        <img class="presentacion_imagen" src="../assests/Imagem.png" alt="foto">
 
     </main>
-    <footer></footer>
+    <footer class="footer">
+        <p>Desarrollado por SeruhioCode30</p>
+    </footer>
 </body>
 </html>
