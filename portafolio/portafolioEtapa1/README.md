@@ -6,8 +6,8 @@ Se realiza la creacion de una pagina como un portafolio, cuenta con un tiulo, 2 
 y un footer.
 Se dan estilos con CSS.
 
-![portafolio ejemplo](../../assests/Screenshot%20(390).png)
-![portafolio ejemplo](https://github.com/KarlaV30/AluraG8/blob/main/portafolio/assests/Screenshot%20(390).png?raw=true)
+
+https://github.com/KarlaV30/AluraG8/blob/main/portafolio/assests/Screenshot%2520(390).png
 
 
 
